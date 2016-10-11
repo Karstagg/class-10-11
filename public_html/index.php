@@ -15,9 +15,7 @@
 		<link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/8bit-wonder" type="text/css"/>
 	</head>
 	<body>
-		<div class="centerText">
 			<h1>hi!</h1>
-		</div>
 	</body>
 </html>
 
