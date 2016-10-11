@@ -12,7 +12,7 @@
 		<link rel="stylesheet" href="css/main.css" type="text/css" />
 	</head>
 	<body>
-
+		<p>hi!</p>
 	</body>
 </html>
 
