@@ -1,8 +1,22 @@
-html, body {
+html, body { /*main style*/
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: white;
 	font-size: 15pt;
-	background: #eee;
+	background: #222;
 	margin: 0;
 	height: 100%;
 }
+header { /*style for the header*/
+	font-family: '8BITWONDERNominal';
+	text-shadow: 2px 2px 	#3CC;
+	text-align: center;
+}
+
+section {
+	width: 30%;
+	text-align: center;
+}
+
+
+
 
