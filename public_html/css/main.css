@@ -2,7 +2,7 @@ html, body { /*main style*/
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	color: white;
 	font-size: 15pt;
-	background: #222;
+	background: dimgray;
 	margin: 0;
 	height: 100%;
 }
@@ -10,15 +10,31 @@ header { /*style for the header*/
 	font-family: '8BITWONDERNominal';
 	text-shadow: 2px 2px 	#3CC;
 	text-align: center;
+	padding: 10%;
+	background: #222;
+	height: 100px;
+	margin:0px auto;
+}
+.header-main-text { /*Main header text*/
+	width: 70%;
+}
+.header-sub-text { /*header subtext*/
+	width: 80%;
+	text-align: right;
 }
 
 section { /*for sections*/
-	width: 40%;
+	width: 35%;
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 50px;
 }
-
+ul { /*unordered list*/
+	text-align: left;
+}
+tr { /*table rows*/
+	text-align: left;
+}
 
 
 
