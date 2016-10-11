@@ -12,9 +12,11 @@ header { /*style for the header*/
 	text-align: center;
 }
 
-section {
-	width: 30%;
+section { /*for sections*/
+	width: 40%;
 	text-align: center;
+	margin: 0 auto;
+	padding-top: 50px;
 }
 
 

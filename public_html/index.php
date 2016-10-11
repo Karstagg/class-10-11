@@ -25,9 +25,7 @@
 			<!--begin section 1-->
 			<section>
 				<!--samuel l ipsum-->
-				<p>Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a
-					transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong
-					to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.</p>
+				<p>Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.</p>
 				<img src="img/party.jpg" alt="You party like shit">
 			</section>
 			<section></section>
